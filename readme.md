@@ -1,4 +1,4 @@
-# Problem-Solving Repo
+# Problem-Solving
 
 ## Repository Outline
 - This repository contains various solutions to coding problems and algorithmic challenges.
